@@ -1,0 +1,25 @@
+{
+  "name": "org.cordova.mobile.information",
+  "version": "0.0.1",
+  "description": "get mobile hardware details like IMEI number and etc.",
+  "cordova": {
+    "id": "org.cordova.mobile.information",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ixlmarkanday/uid.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Markanday Gupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ixlmarkanday/uid/issues"
+  },
+  "homepage": "https://github.com/ixlmarkanday/uid#readme"
+}
